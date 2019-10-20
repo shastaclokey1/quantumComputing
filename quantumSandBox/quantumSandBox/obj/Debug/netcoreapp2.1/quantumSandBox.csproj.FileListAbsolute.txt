@@ -1,0 +1,10 @@
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\bin\Debug\netcoreapp2.1\quantumSandBox.deps.json
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\bin\Debug\netcoreapp2.1\quantumSandBox.runtimeconfig.json
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\bin\Debug\netcoreapp2.1\quantumSandBox.runtimeconfig.dev.json
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\bin\Debug\netcoreapp2.1\quantumSandBox.dll
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\bin\Debug\netcoreapp2.1\quantumSandBox.pdb
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\obj\Debug\netcoreapp2.1\quantumSandBox.csprojAssemblyReference.cache
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\obj\Debug\netcoreapp2.1\quantumSandBox.AssemblyInfoInputs.cache
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\obj\Debug\netcoreapp2.1\quantumSandBox.AssemblyInfo.cs
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\obj\Debug\netcoreapp2.1\quantumSandBox.dll
+D:\Repositories\quantumComputing\quantumSandBox\quantumSandBox\obj\Debug\netcoreapp2.1\quantumSandBox.pdb
